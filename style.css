@@ -1,0 +1,95 @@
+body {
+    background-image: url(foret\ 2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+        font-size: 25px;   }
+
+    
+    a {
+        color: rgb(0, 247, 255); 
+    }
+    
+
+h1 {
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.6);
+    color: rgba(255, 0, 0, 0.842);
+    border: 1px solid rgb(0, 255, 115);
+    font-size:20px;
+    background-size: auto;
+    padding: 10px; 
+    display: block;
+}
+
+h2 { 
+    background-color: rgba(0, 0, 0, 0.6);
+    text-align: center;
+    color: red;
+    border: 1px solid yellow;
+    font-size: 35px;
+    background-size: auto;
+    padding: 10px;
+    display: inline-block;
+    
+}
+
+h3 { 
+    background-color: rgba(0, 0, 0, 0.6);
+    text-align: center;
+    color: red;
+    border: 1px solid yellow;
+    font-size: 30px;
+    background-size: auto;
+    padding: 10px;
+    display: inline-block;
+}
+
+h4 {
+    background-color: rgba(0, 0, 0, 0.6);
+    text-align: center;
+    color: red;
+    border: 1px solid yellow;
+    font-size: 30px;
+    background-size: auto;
+    padding: 10px;
+    display: inline-block;
+}
+    
+h6 {
+    background-color: rgba(0, 0, 0, 0.6);
+    text-align: right;
+    color: rgb(255, 255, 0);
+    border: 1px solid yellow;
+    font-size: 15px;
+    background-size: auto;
+    padding: 20px; 
+    display: inline-block;
+}
+p {
+    background-color: rgba(0, 0, 0, 0.6);
+    color: rgb(255, 255, 0);
+    border: 1px solid rgb(0, 255, 76);
+    font-size: 15px;
+    background-size: auto;
+    padding: 10px; 
+    display: block;
+}
+.image-droite {
+    float: right;
+    margin-left: 10px; 
+}
+
+.center {
+    float: center;
+    margin-left: 250px;
+}
+.texte-bordure{
+    background-color: rgba(0, 0, 0, 0.6);
+    color: rgb(255, 238, 0);
+    border: 1px solid rgb(0, 255, 76);
+    font-size: 16px;
+    background-size: auto;
+    padding: 10px; 
+    display: inline-block;
+    
+}
